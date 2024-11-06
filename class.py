@@ -9,5 +9,7 @@ class Person:
         self.name = name
         self.age = age
         
+        print("init exji...")
+        
 p1 = Person("Shawon" , 20)
-print(git push --set-upstream origin main)
+print(p1.name)
