@@ -33,4 +33,4 @@ class Animal:
 
 
 firstAnimale = Animal("dog" , 2)
-firstAnimale.AnimalAge()
+print(firstAnimale.AnimalName())
