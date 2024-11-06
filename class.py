@@ -28,5 +28,8 @@ class Animal:
         
     def AnimalName(self):
         return self.name
+    def AnimalA(self):
+        return self.name
 
 
+dog = Animal("")
