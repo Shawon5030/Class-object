@@ -16,3 +16,6 @@ class Person:
 p1 = Person("Shawon" , 20)
 print(p1.name)
 print(p1)
+p2 = Person("mahmudul" , 19)
+print(p2.name)
+print(p2)
