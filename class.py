@@ -1,5 +1,4 @@
 class myclass:
     def __init__(self):
-        x = 5  
+        print(10)
 p1 = myclass()
-print(p1)
