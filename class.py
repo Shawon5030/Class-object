@@ -12,7 +12,7 @@ class Person:
         print("init exji...")
     def __str__(self):
         return f" name is {self.name} age is {self.age}"
-        
+
 p1 = Person("Shawon" , 20)
 
 p2 = Person("mahmudul" , 19)
