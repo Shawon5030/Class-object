@@ -12,6 +12,8 @@ class Person:
         print(self.name)
         print(self.age)
         print("init exji...")
+    def __str__(self):
+        return `{self.name}`
         
 p1 = Person("Shawon" , 20)
 
