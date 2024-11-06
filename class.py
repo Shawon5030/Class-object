@@ -26,8 +26,8 @@ class Animal:
         self.name = name
         self.age = age
         
-    def AnimalName(self):
-        return self.name
+    def AnimalName(a):
+        return s.name
     def AnimalAge(self):
         return self.age
 
