@@ -27,4 +27,6 @@ class Animal:
         self.age = age
         
     def AnimalName(self):
-        return f"Name: {self.name}, Age: {self.age}"
+        return self.name
+
+
